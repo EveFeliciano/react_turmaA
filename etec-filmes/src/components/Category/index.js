@@ -4,9 +4,7 @@ import styles from "./Category.module.css";
 export const categories = [
     "BTS",
     "STRAY KIDS",
-    "Astronomia e Geografia",
-    "Climatologia, Meteorologia, Vegetação",
-    "Geologia e Hidrografia"
+    "XDINARY HEROES",
   ]
 
 export function filterCategory(id) {
